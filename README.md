@@ -1,29 +1,15 @@
-<h1 align="center">Hi , I'm Ahmed Mohamed Gaber <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi There, I'm Ibrahim Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">
 - Graduated From Faculty Of Science ASU Computer Science <br>
-- Master's Student At Digital Egypt Builders Initiative - Queen's University In Canda
 </h3>
 <br>
 
-- 🔭 I’m currently working on **AI projects**
+- 🔭 I’m currently working on **Backend projects**
 
-- 🌱 I’m currently learning **AI and Data Science**
+- 🌱 I’m currently learning **Fullstack**
 
 - 👯 I’m looking to collaborate on sharing useful Apps
-
-<!-- 👨‍💻 All of my projects are available at [https://github.com/Ahmed-M-G](https://github.com/Ahmed-M-G)
-
-- 📫 How to reach me **gaber1400119@gmail.com** -->
-
-
-
-<!--## 🌐Socials
-<p align="center">
-<a href="https://www.linkedin.com/in/ahmed-mohamed-gaber-143b25175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-gaber-143b25175/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18993829/ahmed-gaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18993829/ahmed-gaber" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/ahmedgaber1400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ahmedgaber1400" height="30" width="40" /></a>
-</p>-->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
@@ -46,20 +32,8 @@
     <a href="#"><img alt = "" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-M-G&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a>
 </p>
 
-
-<!--
-![](https://github-readme-stats.vercel.app/api?username=Ahmed-M-G&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-M-G&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-M-G&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Ahmed-M-G&theme=react-dark&bg_color=20232a&hide_border=true"/>-->
-
-
-
-
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ahmed-M-G&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
 
 # ⚡ Recent GitHub Activity
   <br/>
@@ -69,8 +43,6 @@
 ![Snake](https://github.com/Ahmed-M-G/Ahmed-M-G/blob/output/github-contribution-grid-snake.svg)
 
 <br>
-
-<!-- ![](https://komarev.com/ghpvc/?username=Ahmed-M-G) -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
