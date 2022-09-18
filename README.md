@@ -1,7 +1,7 @@
 <h1 align="center">Hi There, I'm Ibrahim Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">
-- Web Developer - Graduated From Faculty Of Science ASU Computer Science <br>
+- Web Developer - Graduated From ASU / CS Program <br>
 </h3>
 <br>
 
