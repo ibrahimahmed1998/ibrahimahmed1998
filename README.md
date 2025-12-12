@@ -2,17 +2,11 @@
 
 Microsoft Dynamics 365 CRM Developer with 3+ years of hands‑on experience delivering reliable CRM solutions: customization, plugins, Power Platform automation, data migration, and secure integrations. I focus on reducing manual effort, improving data quality and making CRM systems work smoothly with external services and core banking systems.
 
-(Extracted from my CV — experience at Netways, Proart Consulting, and Banque Misr.)
-
----
-
 ## 🚀 What I’m doing now
 
 * 🔭 Building backend integrations and CRM customizations (Dynamics 365 CE).
 * 🌱 Expanding full‑stack skills and modernizing solutions using .NET and Power Platform.
 * 🤝 Open to collaboration on enterprise apps and CRM automation projects.
-
----
 
 ## 🧰 Tech stack & tools
 
@@ -21,8 +15,6 @@ Microsoft Dynamics 365 CRM Developer with 3+ years of hands‑on experience deli
 **Dev & Infra:** C#, .NET Framework/Core, RESTful APIs, SQL Server, Azure DevOps, Logic Apps
 
 **Apps & Integration:** Model-Driven & Canvas Apps, .NET MAUI, Power Virtual Agents, OData
-
----
 
 ## 🔧 Selected projects & highlights
 
@@ -42,17 +34,15 @@ Microsoft Dynamics 365 CRM Developer with 3+ years of hands‑on experience deli
 
 * Extended model-driven apps, connected Dataverse to conversational AI and notifications, and built a secure mobile client with .NET MAUI.
 
----
-
 ## 📁 What I bring to a team
 
 * Strong troubleshooting and analytical skills for enterprise CRM systems.
 * Clear technical documentation, release management and CI/CD using Azure DevOps.
 * Focus on security, data integrity and user adoption.
 
----
-
 ## 📫 Connect with me
 
-
-
+📞 **Egypt:** [+20 1207053244](tel:+201207053244)  
+📞 **Saudi Arabia:** [+966 573718221](tel:+966573718221)  
+📧 **Email:** [Ibrahim.Ahmed.Elaidi@gmail.com](mailto:Ibrahim.Ahmed.Elaidi@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/ibrahim98ahmed](https://www.linkedin.com/in/ibrahim98ahmed)
