@@ -1,5 +1,3 @@
----
-
 ## 🔎 Professional summary
 
 Microsoft Dynamics 365 CRM Developer with 3+ years of hands‑on experience delivering reliable CRM solutions: customization, plugins, Power Platform automation, data migration, and secure integrations. I focus on reducing manual effort, improving data quality and making CRM systems work smoothly with external services and core banking systems.
@@ -56,11 +54,5 @@ Microsoft Dynamics 365 CRM Developer with 3+ years of hands‑on experience deli
 
 ## 📫 Connect with me
 
----
 
-## 📌 Want to use this README?
 
-* Feel free to copy and paste this `README.md` into your GitHub profile repo.
-* Tell me if you want a shorter one‑line bio for the pinned profile (160 chars) or an Arabic (Egyptian) summary.
-
----
